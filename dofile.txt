@@ -1,0 +1,34 @@
+$ ls
+git status
+git init
+$ls
+git status
+git add resnet50.ipynb
+cd repositorio
+git status
+git add .
+git status
+git commit -m "primer commit"
+em caballo.jpeg
+rm caballo.jpeg
+git status
+git ls-files
+ rm caballo.jpeg
+rm caballo.jpeg
+$ rm caballo.jpeg
+rm caballo.jpeg
+git status
+git ls-files
+git status
+git mv carrro.jpeg auto.jpeg
+git status
+git mv carro.jpeg auto.jpeg
+echo maeriposa.jpg
+cat
+cat. gitigmore
+echo mariposa.jpg > .gitihmore
+echo mariposa.jpg > .gitignore
+cat .gitignore
+more .gitignore
+doskey /history dofile.txt
+doskey /history > C:\Users\karla.lopez\repositorio\dofile.txt 
